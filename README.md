@@ -1,4 +1,4 @@
-<h1 align="center">Predicting Bike-sharing Demand Using Machine Learning</h1>
+<h1 align="center">Predicting Bike-sharing Demand Using Machine Learning with AutoGluon</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" />
 <img src="https://img.shields.io/badge/Regression-FF5733?style=for-the-badge&logo=regression&logoColor=white" />
