@@ -22,3 +22,6 @@ wget https://www.python.org/ftp/python/3.7.4/Python-3.7.4.tgz && tar -xvf Python
 
 ```
 
+<h1 align="center">Project Completion Badge :</h1>
+
+![alt text](project/img/badge.png)
